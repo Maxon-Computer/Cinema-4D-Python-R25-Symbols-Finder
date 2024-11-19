@@ -1,6 +1,6 @@
 # R25-Python-Deprecated-Symbols-Finder
 
-> This repository is provided as a legacy repository and is not actively maintained.
+> :warning: This an archived legacy repository which is not actively maintained.
 
 Provides a utility tool aimed at finding all Python symbols which have been deprecated in R25.
 
